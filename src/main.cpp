@@ -1,7 +1,20 @@
 #include "template.h"
 using namespace std;
 
-int main() {
+void setup() {
 
+
+
+}
+
+void update() {
+
+
+
+}
+
+int main() {
+    bool gameRunning = 1;
     
+
 }
