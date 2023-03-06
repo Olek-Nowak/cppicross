@@ -1,4 +1,3 @@
-#include "template.h"
 using namespace std;
 
 void setup() {
